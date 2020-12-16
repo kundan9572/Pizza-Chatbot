@@ -11,6 +11,8 @@
 ### 404 Not Found - resource was not found.
 ### 400 Bad Request - the request could not be understood.
 
+## Platform Used:
+### Heroku - To host my Front-end part .
 
 
 ## API URL :

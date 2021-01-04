@@ -7,6 +7,7 @@
 ### GET - To Get a resource or list of resource.
 ### PUT - To fetch resource.
 
+
 ## Server Responses: 
 ### 200 OK - the request was successful .
 ### 404 Not Found - resource was not found.
